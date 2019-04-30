@@ -13,4 +13,8 @@ We were introduced to different datatypes, lists, tables, reading from CSV files
 ## Day 2: 
 We went deeper into QSQL, and performed a Data Science Question and exercise to use our newly gained knowledge
 
+<hr/>
+
+
 I am extremely grateful to the team for coming down and opening our eyes towards Kdb as well all the other databases out there.
+I have learned a lot and will attempt to use this language for a project to gain an even deeper understanding of it!
